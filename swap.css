@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    display: flex;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover{
+    background-color: #45a049;
+}
+
+label ,input{
+    margin: 10px 0;
+}
+
+p{
+    margin: 10px 0;
+}
